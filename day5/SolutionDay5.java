@@ -73,6 +73,10 @@ public class SolutionDay5{
               int source = Integer.parseInt(instructions[3]) - 1;
               int dest = Integer.parseInt(instructions[5]) - 1;
 
+              // Part 1
+              // crateMover9001(crates, x, source, dest);
+
+              // Part 2
               crateMover9001(crates, x, source, dest);
             }
 
